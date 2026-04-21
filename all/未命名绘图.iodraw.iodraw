@@ -59,7 +59,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-13" value="Shipments" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="610" width="250" height="130" as="geometry" />
+          <mxGeometry x="110" y="460" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-14" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="C-vyLk0tnHw3VtMMgP7b-13" vertex="1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -138,7 +138,7 @@
             <mxPoint x="200" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kHFnWiuQ48eG9C3pzTIJ-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="kHFnWiuQ48eG9C3pzTIJ-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.413;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="C-vyLk0tnHw3VtMMgP7b-13" target="kHFnWiuQ48eG9C3pzTIJ-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="420" as="sourcePoint" />
             <mxPoint x="450" y="370" as="targetPoint" />
